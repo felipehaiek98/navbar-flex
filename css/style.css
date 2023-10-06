@@ -5,6 +5,7 @@ header{
 .navBar{
     display: flex;
     justify-content: center;
+    align-content: center;
     gap: 1.25rem;
     list-style: none;
 }
