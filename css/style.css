@@ -1,0 +1,14 @@
+header{
+    background-color: lightblue;
+}
+
+.navBar{
+    display: flex;
+    justify-content: center;
+    gap: 1.25rem;
+    list-style: none;
+}
+.navBar li a{
+    text-decoration: none;
+    color: white;
+}
